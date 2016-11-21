@@ -1,0 +1,16 @@
+{
+  "name": "gulp-truncate",
+  "version": "1.0.0",
+  "description": "Gulp utility module for truncating files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["gulpplugin","truncate","gulp-truncate-files","file-truncate","fs-truncate","clean"],
+  "author": "Kailash K Yogeshwar",
+  "license": "ISC",
+  "dependencies": {
+    "gulp-util": "^3.0.7",
+    "through2": "^2.0.1"
+  }
+}
